@@ -2,6 +2,6 @@
 
 Welcome to my SQL Portfolio! This code repository containes examples of SQL I've written
 Feel free to take a look and reach out via email if you have any questions:
-yoannamerlos@gmail.com
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white yoannamerlos@gmail.com
 
 
